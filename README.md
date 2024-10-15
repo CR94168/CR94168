@@ -13,12 +13,12 @@
     <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=plastic&logo=html5&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=plastic&logo=css3">
     <br/>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=fff">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=fff">
     <img src="https://img.shields.io/badge/Lumen-E74430?style=plastic&logo=lumen&logoColor=fff">
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=fff">
+    <img src="https://img.shields.io/badge/Vue.JS-4FC08D?style=plastic&logo=vuedotjs&logoColor=fff">
     <img src="https://img.shields.io/badge/ExpressJS-000000?style=plastic&logo=express&logoColor=fff">
     <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=plastic&logo=codeigniter&logoColor=fff">
-    <img src="https://img.shields.io/badge/Vue.JS-4FC08D?style=plastic&logo=vuedotjs&logoColor=fff">
     <br/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=fff">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=fff">
